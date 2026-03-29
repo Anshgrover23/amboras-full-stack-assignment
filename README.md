@@ -2,7 +2,7 @@
 
 Multi-tenant store analytics API (NestJS + PostgreSQL) and dashboard (Next.js). Package management and scripts use **[Bun](https://bun.sh)** (`bun install`, `bun run`).
 
-**Video walkthrough:** : Will add soon.
+**Video walkthrough:** [YouTube](https://youtu.be/yN2t4PeIgh4)
 
 ## Setup Instructions
 

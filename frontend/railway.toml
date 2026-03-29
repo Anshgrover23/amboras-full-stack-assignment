@@ -1,0 +1,8 @@
+# Used when this service’s Root Directory is set to `frontend` (required for monorepo).
+# NEXT_PUBLIC_API_URL must be set in Railway Variables before build.
+
+[build]
+builder = "RAILPACK"
+
+[deploy]
+startCommand = "bun run start"

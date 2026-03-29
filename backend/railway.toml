@@ -1,0 +1,10 @@
+# Used when this service’s Root Directory is set to `backend` (required for monorepo).
+# See: https://docs.railway.com/guides/config-as-code
+
+[build]
+builder = "RAILPACK"
+
+[deploy]
+startCommand = "bun run start:prod"
+healthcheckPath = "/api/v1/health"
+healthcheckTimeout = 100

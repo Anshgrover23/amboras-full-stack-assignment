@@ -2,7 +2,7 @@
 
 Multi-tenant store analytics API (NestJS + PostgreSQL) and dashboard (Next.js). Package management and scripts use **[Bun](https://bun.sh)** (`bun install`, `bun run`).
 
-**Video walkthrough:** _Add your Loom/YouTube (unlisted) link here._
+**Video walkthrough:** : Will add soon.
 
 ## Setup Instructions
 
@@ -98,4 +98,4 @@ You can validate index use with `EXPLAIN ANALYZE` on the generated SQL in `Analy
 
 ## Time Spent
 
-_Approximately X hours (fill in for your submission)._
+3.5 Hours
